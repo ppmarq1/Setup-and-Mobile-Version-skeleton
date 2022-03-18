@@ -3,9 +3,6 @@
 ## Setup and Mobile Version Skeleton
 
 
-
-> Description the project.
-
 The 2 sections of this skeleton project has:
 
 a - the toolbar
@@ -18,6 +15,21 @@ b - the headline section
 - HTML
 - CSS
 - linter
+
+## Prerequisites
+## Setup
+- Clone this repository to your desktop.
+- Navigate to the top level of the directory.
+
+## Install
+- Clone the repository
+https://github.com/ppmarq1/Setup-and-Mobile-Version-skeleton.git
+
+
+
+## Run tests
+npx stylelint "**/*.{css,scss}"
+npx hint .
 
 
 
